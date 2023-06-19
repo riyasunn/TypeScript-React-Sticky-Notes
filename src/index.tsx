@@ -5,7 +5,6 @@ import CssBaseline from '@mui/material/CssBaseline';
 import { store } from './redux/store';
 import App from './App';
 
-
 const container = document.getElementById('root')!;
 const root = createRoot(container);
 
